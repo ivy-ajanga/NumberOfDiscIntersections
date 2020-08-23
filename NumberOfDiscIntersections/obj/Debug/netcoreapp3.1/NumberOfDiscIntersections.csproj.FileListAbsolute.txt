@@ -1,0 +1,13 @@
+C:\Users\Administration\source\repos\NumberOfDiscIntersections\NumberOfDiscIntersections\bin\Debug\netcoreapp3.1\NumberOfDiscIntersections.exe
+C:\Users\Administration\source\repos\NumberOfDiscIntersections\NumberOfDiscIntersections\bin\Debug\netcoreapp3.1\NumberOfDiscIntersections.deps.json
+C:\Users\Administration\source\repos\NumberOfDiscIntersections\NumberOfDiscIntersections\bin\Debug\netcoreapp3.1\NumberOfDiscIntersections.runtimeconfig.json
+C:\Users\Administration\source\repos\NumberOfDiscIntersections\NumberOfDiscIntersections\bin\Debug\netcoreapp3.1\NumberOfDiscIntersections.runtimeconfig.dev.json
+C:\Users\Administration\source\repos\NumberOfDiscIntersections\NumberOfDiscIntersections\bin\Debug\netcoreapp3.1\NumberOfDiscIntersections.dll
+C:\Users\Administration\source\repos\NumberOfDiscIntersections\NumberOfDiscIntersections\bin\Debug\netcoreapp3.1\NumberOfDiscIntersections.pdb
+C:\Users\Administration\source\repos\NumberOfDiscIntersections\NumberOfDiscIntersections\obj\Debug\netcoreapp3.1\NumberOfDiscIntersections.csprojAssemblyReference.cache
+C:\Users\Administration\source\repos\NumberOfDiscIntersections\NumberOfDiscIntersections\obj\Debug\netcoreapp3.1\NumberOfDiscIntersections.AssemblyInfoInputs.cache
+C:\Users\Administration\source\repos\NumberOfDiscIntersections\NumberOfDiscIntersections\obj\Debug\netcoreapp3.1\NumberOfDiscIntersections.AssemblyInfo.cs
+C:\Users\Administration\source\repos\NumberOfDiscIntersections\NumberOfDiscIntersections\obj\Debug\netcoreapp3.1\NumberOfDiscIntersections.csproj.CoreCompileInputs.cache
+C:\Users\Administration\source\repos\NumberOfDiscIntersections\NumberOfDiscIntersections\obj\Debug\netcoreapp3.1\NumberOfDiscIntersections.dll
+C:\Users\Administration\source\repos\NumberOfDiscIntersections\NumberOfDiscIntersections\obj\Debug\netcoreapp3.1\NumberOfDiscIntersections.pdb
+C:\Users\Administration\source\repos\NumberOfDiscIntersections\NumberOfDiscIntersections\obj\Debug\netcoreapp3.1\NumberOfDiscIntersections.genruntimeconfig.cache
